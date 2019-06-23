@@ -50,3 +50,7 @@ You can also use it to list which users or workstations have changed their passw
 	2019-06-21 15:06:06 UTC	CN=U83744,OU=Users,OU=Accounts,DC=lab,DC=local
 ```
 
+## Documentation
+
+You can find examples of repadmin's usage at: `https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc773062(v=ws.10)` (as of June 23 2019)
+
